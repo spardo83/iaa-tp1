@@ -5,7 +5,7 @@
 - Gimenez, Pablo Eduardo
 - Pardo, Sebastián
 - Martín
-- Jos
+- Brazón, Josmar
 - Ricky
 - Meoli, Lucas Pablo
 ## Introducción
