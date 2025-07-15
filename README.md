@@ -6,7 +6,7 @@
 - Pardo, Sebastián
 - Martín
 - Brazón, Josmar
-- Ricky
+- Losada, Ricardo
 - Meoli, Lucas Pablo
 ## Introducción
 
