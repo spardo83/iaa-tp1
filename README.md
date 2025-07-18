@@ -4,7 +4,7 @@
 
 - Gimenez, Pablo Eduardo
 - Pardo, Sebastián
-- Martín
+- Gonzalez, Martín
 - Brazón, Josmar
 - Losada, Ricardo
 - Meoli, Lucas Pablo
